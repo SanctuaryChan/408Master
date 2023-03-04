@@ -35,4 +35,4 @@
 
 #### 截图预览
 
-![image-20230304163728604](/Users/sanctuary/Documents/PostGraduate/408_Master/README.assets/image-20230304163728604.png)
+![image-20230304163728604](./README.assets/image-20230304163728604.png)
