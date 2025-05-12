@@ -1,50 +1,54 @@
 # 408Master
 
-## 介绍
-该项目为本人学习全国硕士研究生统一入学考试科目：《计算机专业基础综合》（科目代码：408）时所记录的笔记，在帮助自己复习巩固的同时，希望能够帮助到更多需要的人，同时祝大家考试顺利，一战成硕！
+**Read this in other languages: [English](README.md), [中文](README_zh.md).**
 
-本项目目前还在不定期更新中，后续可能会录制408历年真题的逐题讲解，敬请期待~
+## Introduction
 
-## 项目结构 
+This project is the notes I recorded while studying for the National Postgraduate Entrance Examination subjects: "**Computer Professional Basic Comprehensive**" (subject code: 408). In addition to helping myself review and consolidate, I hope it can also help more people in need. Wishing everyone good luck in the exam and success in one shot! 
+
+This project is currently being updated irregularly, and it may record detailed explanations of past 408 exam questions in the future. Please stay tuned~
+
+## Structure  
 ```
 408-master
-\--- 408背诵冲刺手册.md	# 笔记主体
-\--- 408背诵冲刺手册.assets	# 笔记图片文件
-\--- 408背诵冲刺手册.pdf	# 笔记PDF版本
-\--- 408背诵冲刺手册.html	# 笔记HTML版本
-\--- README.md	# 介绍文档
-\--- README.assets	# 介绍文档图片文件
+\--- 408背诵冲刺手册.md	# Note main body
+\--- 408背诵冲刺手册.assets	# Note image file
+\--- 408背诵冲刺手册.pdf	# Note PDF version
+\--- 408背诵冲刺手册.html	# Note HTML version
+\--- README.md	# Introduction document(English)
+\--- README_zh.md	# Introduction document(Chinese)
+\--- README.assets	# Introduction document image file
 ```
 
-## 项目内容
+## Content 
 
-408背诵冲刺手册是本人在学习时，以《王道考研复习手册》为基础，对其中的重点内容加以提炼和理解所编写而成，其中包含以下内容：
+The 408 Review Manual is compiled based on the "Wangdao Postgraduate Review Manual" during my studies, where I have refined and understood the key contents. It includes the following content:
 
-- 计算机组成原理（CO）重点知识
-- 操作系统（OS）重点知识
-- 数据结构（DS）重点知识
-- 计算机网络（NC）重点知识
-- 部分常考题型解题技巧
-- 部分经典例题及解析（加以自己的理解）
-- DS常考算法模板
-- 408常见专有名词解释
+- Computer Organization and Architecture (CO) Key Knowledge
+- Operating System (OS) Key Knowledge
+- Data Structure (DS) Key Knowledge
+- Computer Network (NC) Key Knowledge
+- Part commonly tested question types solving techniques
+- Some classic example questions and their analyses (with personal understanding).
+- DS Common Algorithm Templates
+- 408 Common Proper Nouns Explanation
 
-## 使用说明
+## How to use it ?
 
-**方法一：**
+**Method1: **
 
-- 将项目克隆或下载到本地后，直接使用markdown软件打开即可食用（使用`Typora`打开，设置主题为：Github 效果最佳）
+- After cloning or downloading the project to the local machine, you can directly open it with markdown software to use it (open with `Typora`, set the theme to: Github for the best effect).
 
-**方法二：**
+**Method 2：**
 
-- 将项目克隆或下载到本地后，直接双击打开`408背诵冲刺手册.pdf` 或 `408背诵冲刺手册.html`  
+- After cloning or downloading the project to the local machine, double-click to open `408冲刺背诵手册.pdf` or `408冲刺背诵手册.html`.
 
-**注意事项：**
+**Notes：**
 
-- 如果笔记图片无法显示请确保`408背诵冲刺手册.md/pdf/html` 与 `408背诵冲刺手册.assets`处于同一个目录中
-- 转载请注明来源
+- If the note image cannot be displayed, please ensure that `408背诵冲刺手册.md/pdf/html` and `408背诵冲刺手册.assets` are in the same directory.
+- Please indicate the source of the reprint.
 
-## 截图预览
+## Screenshot preview
 
 ![image-20230304163728604](./README.assets/image-20230304163728604.png)
 
